@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mhiew:android-pdf-viewer:3.2.0-beta.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e763d863e3c5bf652c34899872c913c8/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e763d863e3c5bf652c34899872c913c8/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e763d863e3c5bf652c34899872c913c8/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mhiew/android-pdf-viewer/3.2.0-beta.3/6579c22f3bcadc545ed9b4b7ea4293247e020a8f/android-pdf-viewer-3.2.0-beta.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mhiew/android-pdf-viewer/3.2.0-beta.3/a72bec0d5cbd05394cec2da165f66a7bd21365df/android-pdf-viewer-3.2.0-beta.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

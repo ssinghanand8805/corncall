@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaredrummler:truetypeparser-light:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53067bf509f19e4adc53c7b8b7ce20ae/transformed/jetified-truetypeparser-light-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/53067bf509f19e4adc53c7b8b7ce20ae/transformed/jetified-truetypeparser-light-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/truetypeparser-light/1.0.0/732ae2f001e66aec7c024afce0352c8e4cf91925/truetypeparser-light-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/truetypeparser-light/1.0.0/9d417a6ea39e724c438ec078baf784752386c5d9/truetypeparser-light-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

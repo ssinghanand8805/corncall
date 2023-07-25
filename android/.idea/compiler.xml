@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="android.app" target="11" />
+      <module name="android.audio_session" target="11" />
+      <module name="android.audioplayers_android" target="11" />
+      <module name="android.better_open_file" target="11" />
+      <module name="android.camera_android" target="11" />
+      <module name="android.cloud_firestore" target="11" />
+      <module name="android.connectivity_plus" target="11" />
+      <module name="android.contacts_service" target="11" />
+      <module name="android.device_info_plus" target="11" />
+      <module name="android.devicelocale" target="11" />
+      <module name="android.emoji_picker_flutter" target="11" />
+      <module name="android.ffmpeg_kit_flutter_min_gpl" target="11" />
+      <module name="android.file_picker" target="11" />
+      <module name="android.file_saver" target="11" />
+      <module name="android.firebase_auth" target="11" />
+      <module name="android.firebase_core" target="11" />
+      <module name="android.firebase_crashlytics" target="11" />
+      <module name="android.firebase_messaging" target="11" />
+      <module name="android.firebase_storage" target="11" />
+      <module name="android.flutter_foreground_task" target="11" />
+      <module name="android.flutter_image_compress" target="11" />
+      <module name="android.flutter_local_notifications" target="11" />
+      <module name="android.flutter_pdfview" target="11" />
+      <module name="android.flutter_plugin_android_lifecycle" target="11" />
+      <module name="android.flutter_secure_storage" target="11" />
+      <module name="android.flutter_sound" target="11" />
+      <module name="android.flutter_video_info" target="11" />
+      <module name="android.flutter_webrtc" target="11" />
+      <module name="android.fluttertoast" target="11" />
+      <module name="android.gallery_saver" target="11" />
+      <module name="android.geolocator_android" target="11" />
+      <module name="android.google_mobile_ads" target="11" />
+      <module name="android.image_cropper" target="11" />
+      <module name="android.image_editor_common" target="11" />
+      <module name="android.image_picker_android" target="11" />
+      <module name="android.launch_review" target="11" />
+      <module name="android.local_auth_android" target="11" />
+      <module name="android.media_info" target="11" />
+      <module name="android.package_info_plus" target="11" />
+      <module name="android.path_provider_android" target="11" />
+      <module name="android.permission_handler_android" target="11" />
+      <module name="android.photo_manager" target="11" />
+      <module name="android.receive_sharing_intent" target="11" />
+      <module name="android.share" target="11" />
+      <module name="android.shared_preferences_android" target="11" />
+      <module name="android.sms_autofill" target="11" />
+      <module name="android.sqflite" target="11" />
+      <module name="android.url_launcher_android" target="11" />
+      <module name="android.video_compress" target="11" />
+      <module name="android.video_player_android" target="11" />
+      <module name="android.video_thumbnail" target="11" />
+      <module name="android.wakelock" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
